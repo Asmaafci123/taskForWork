@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707421751657",
+    "project_id": "taskforwork-ce406",
+    "storage_bucket": "taskforwork-ce406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707421751657:android:dc2a2af75625b1258f95f8",
+        "android_client_info": {
+          "package_name": "com.example.taskforwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707421751657-oibul62gi6llt3jmd2105ijl8iso7jmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskforwork",
+            "certificate_hash": "083387269842fa24667b4cc079c6833f5dd9b067"
+          }
+        },
+        {
+          "client_id": "707421751657-in4bterk3ll0khejl1rf2copof71n3su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApH8gGHLtDalYMXvPcO4n6vJZigM-rng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707421751657-in4bterk3ll0khejl1rf2copof71n3su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
